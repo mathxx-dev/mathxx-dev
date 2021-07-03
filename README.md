@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Carvalho! 👋
 
 - ✨ Web developer and Game developer.
-- 🔭 Atualmente estou trabalhando na Quaker Houghton.
+- 🔭 Atualmente trabalhando na [Quaker Houghton](https://www.linkedin.com/company/quakerhoughton/mycompany/).
 - 🌱 Estou aprendendo Javascript e ReactJS.
 - 🏆 Meu objetivo para 2021 é: Concluir meus estudos de Javascript e ReactJS.
 - 📫 Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/matheus-carvalho-775504171/).
