@@ -12,6 +12,8 @@
 [![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/FFJ9tvj5Kj)
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/) -->
 
+<!-- GIF ao lado direito <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
+
 <a href="https://github.com/mathxx-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathxx-dev&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&            theme=black">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxx-dev&layout=compact&theme=black">
